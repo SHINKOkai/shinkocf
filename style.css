@@ -1,0 +1,26 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  background: #131314;
+}
+* {
+  margin: 0;
+  font-family: 'Arial','メイリオ';
+  color: #e6e7f0;
+}
+h1 {
+  border-left: 8px solid #0c0c0d;
+  border-bottom: 4px solid #0c0c0d;
+  padding: 5px;
+  background: #1a1a1c;
+}
+input,textarea {
+  outline: 0;
+  background: #1a1a1c;
+  border-radius: 1px;
+  width: 100%;
+  margin: 5px;
+}
+button {
+  background: #1a1a1c;
+}
